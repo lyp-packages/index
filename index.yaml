@@ -1,9 +1,13 @@
 packages:
-  dummy:
-    url: github.com/noteflakes/lyp-package-template
-    description: A dummy package that does absolutely nothing
-    author: Sharon Rosner
   dependency-test:
     url: github.com/ciconia/lyp-dependency-test
     description: A package to test transitive dependencies
     author: Sharon Rosner
+  dummy:
+    url: github.com/noteflakes/lyp-package-template
+    description: A dummy package that does absolutely nothing
+    author: Sharon Rosner
+  roman-numerals:
+    url: github.com/noteflakes/lyp-roman-numerals
+    description: A package for roman numeral harmonic analysis
+    author: David Nalesnik
