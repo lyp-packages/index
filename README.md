@@ -21,7 +21,7 @@ packages:
 
 3. Submit a pull request
 
-Alternatively, you can directly [edit the index file]() on github.
+Alternatively, you can directly [edit the index file](https://github.com/noteflakes/lyp-index/blob/master/index.yaml) on github.
 
 ## The rules
 
