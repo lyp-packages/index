@@ -30,5 +30,5 @@ Alternatively, you can directly [edit the index file](https://github.com/notefla
 2. The package should include a <code>package.ly</code> file in its root directory. This is the entry point for the package.
 3. Additional <code>.ly</code> files can be included using relative <code>\include</code>s.
 4. Transitive dependencies are defined as usual using <code>\require</code>.
-5. The package repository should be versioned using git tags. version tags can be optionally prefixed with <code>v</code> (for example <code>v0.2</code>).
+5. The package repository should be versioned using git tags. Version tags can be optionally prefixed with <code>v</code> (for example <code>v0.2</code>).
 6. Including the package in the index is optional. It allows users to install your package using a short unique name, but your package could always be installed using its publically-accessible git URL.
