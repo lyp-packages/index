@@ -3,3 +3,7 @@ packages:
     url: github.com/noteflakes/lyp-package-template
     description: A dummy package that does absolutely nothing
     author: Sharon Rosner
+  dependency-test:
+    url: github.com/ciconia/lyp-dependency-test
+    description: A package to test transitive dependencies
+    author: Sharon Rosner
