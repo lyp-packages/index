@@ -1,4 +1,8 @@
 packages:
+  assert:
+    url: github.com/noteflakes/lyp-assert
+    description: Assertions for lilypond packages
+    author: Sharon Rosner
   dependency-test:
     url: github.com/ciconia/lyp-dependency-test
     description: A package to test transitive dependencies
