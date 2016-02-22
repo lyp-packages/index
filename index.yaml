@@ -3,6 +3,10 @@ packages:
     url: github.com/noteflakes/lyp-assert
     description: Assertions for lilypond packages
     author: Sharon Rosner
+  bravura:
+    url: github.com/noteflakes/lyp-bravura
+    description: Bravura SMuFL font for lilypond
+    author: Sharon Rosner
   dependency-test:
     url: github.com/ciconia/lyp-dependency-test
     description: A package to test transitive dependencies
@@ -15,3 +19,7 @@ packages:
     url: github.com/noteflakes/lyp-roman-numerals
     description: A package for roman numeral harmonic analysis
     author: David Nalesnik
+  smufl:
+    url: github.com/noteflakes/lyp-smufl
+    description: Support for SMuFL fonts
+    author: Sharon Rosner
