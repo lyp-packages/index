@@ -15,6 +15,10 @@ packages:
     url: github.com/noteflakes/lyp-package-template
     description: A dummy package that does absolutely nothing
     author: Sharon Rosner
+  lilyjazz:
+    url: github.com/noteflakes/lyp-lilyjazz
+    description: LilyJazz font package
+    author: Sharon Rosner
   roman-numerals:
     url: github.com/noteflakes/lyp-roman-numerals
     description: A package for roman numeral harmonic analysis
