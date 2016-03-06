@@ -15,6 +15,10 @@ packages:
     url: github.com/noteflakes/lyp-package-template
     description: A dummy package that does absolutely nothing
     author: Sharon Rosner
+  gootville:
+    url: github.com/noteflakes/lyp-gootville
+    description: Gootville SMuFL font for lilypond
+    author: Grzegorz Pruchniakowski / Sharon Rosner
   lilyjazz:
     url: github.com/noteflakes/lyp-lilyjazz
     description: LilyJazz font package
@@ -30,4 +34,4 @@ packages:
   smufl:
     url: github.com/noteflakes/lyp-smufl
     description: Support for SMuFL fonts
-    author: Sharon Rosner
+    author: Nathan Ho
