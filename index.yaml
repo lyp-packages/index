@@ -6,7 +6,7 @@ packages:
   bravura:
     url: github.com/noteflakes/lyp-bravura
     description: Bravura SMuFL font for lilypond
-    author: Sharon Rosner
+    author: Nathan Ho
   dependency-test:
     url: github.com/ciconia/lyp-dependency-test
     description: A package to test transitive dependencies
@@ -18,7 +18,11 @@ packages:
   lilyjazz:
     url: github.com/noteflakes/lyp-lilyjazz
     description: LilyJazz font package
-    author: Sharon Rosner
+    author: Torsten Hämmerle
+  microlily:
+    url: github.com/noteflakes/lyp-microlily
+    description: Microtonal support for Lilypond
+    author: Graham Breed
   roman-numerals:
     url: github.com/noteflakes/lyp-roman-numerals
     description: A package for roman numeral harmonic analysis
