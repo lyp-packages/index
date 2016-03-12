@@ -15,6 +15,10 @@ packages:
     url: github.com/noteflakes/lyp-package-template
     description: A dummy package that does absolutely nothing
     author: Sharon Rosner
+  edition-engraver:
+    url: github.com/noteflakes/lyp-edition-engraver
+    description: Editorial tweaking for lilypond
+    author: Jan-Peter Voigt
   gootville:
     url: github.com/noteflakes/lyp-gootville
     description: Gootville SMuFL font for lilypond
