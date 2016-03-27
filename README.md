@@ -7,7 +7,7 @@
 ## Fonts
 
 * [bravura](https://github.com/noteflakes/lyp-bravura) - Bravura SMuFL font for lilypond.
-* [gootville](https://github.com/noteflakes/lyp-gootville) - Gootville SMuFL font for lilypond (based on Gonville)
+* [gootville](https://github.com/noteflakes/lyp-gootville) - Gootville SMuFL font for lilypond (based on Gonville).
 * [lilyjazz](https://github.com/noteflakes/lyp-lilyjazz) - LilyJazz font package.
 * [smufl](https://github.com/noteflakes/lyp-smufl) - Support for SMuFL fonts.
 
