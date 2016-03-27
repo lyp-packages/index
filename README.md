@@ -1,8 +1,26 @@
-# lyp-index
+# The semi-offical Lyp package index
 
-A semi-official index of lilypond packages (for lyp).
+## Editorial tools
 
-## How to contribute
+* [edition-engraver](https://github.com/noteflakes/lyp-edition-engraver) - Editorial tweaking for lilypond.
+
+## Fonts
+
+* [bravura](https://github.com/noteflakes/lyp-bravura) - Bravura SMuFL font for lilypond.
+* [gootville](https://github.com/noteflakes/lyp-gootville) - Gootville SMuFL font for lilypond (based on Gonville)
+* [lilyjazz](https://github.com/noteflakes/lyp-lilyjazz) - LilyJazz font package.
+* [smufl](https://github.com/noteflakes/lyp-smufl) - Support for SMuFL fonts.
+
+## Harmony
+
+* [microlily](https://github.com/noteflakes/lyp-microlily) - Microtonal support for Lilypond.
+* [roman-numerals](https://github.com/noteflakes/lyp-roman-numerals) - A package for roman numeral harmonic analysis.
+
+## Support Libraries
+
+* [assert](https://github.com/noteflakes/lyp-assert) - Assertions for lilypond packages.
+
+# Contributing
 
 This repository contains a YAML index of lilypond packages that can be installed using [lyp](https://github.com/noteflakes/lyp), the lilypond package manager.
 
@@ -19,9 +37,8 @@ packages:
     author: <author>
 ```
 
-3. Submit a pull request
-
-Alternatively, you can directly [edit the index file](https://github.com/noteflakes/lyp-index/blob/master/index.yaml) on github.
+3. Add your package to this README file under the proper section (or possibly create a new section).
+4. Submit a pull request
 
 ## The rules
 
@@ -32,4 +49,4 @@ Alternatively, you can directly [edit the index file](https://github.com/notefla
 4. The package should have a README and include a license, either as part of the code, in the README, or in a separate file.
 5. Transitive dependencies are defined as usual using <code>\require</code>.
 6. The package repository should be versioned using git tags. Version tags can be optionally prefixed with <code>v</code> (for example <code>v0.2</code>).
-7. Including the package in the index is optional. It allows users to install your package using a short unique name, but your package could always be installed using its publically-accessible git URL.
+7. Including the package in the index is optional. It allows users to install your package using a short unique name, but your package could always be installed using its publicly-accessible git URL.
