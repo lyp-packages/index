@@ -39,3 +39,7 @@ packages:
     url: github.com/noteflakes/lyp-smufl
     description: Support for SMuFL fonts
     author: Nathan Ho
+  super-shape-me:
+    url: github.com/noteflakes/lyp-super-shape-me
+    description: "Slur & tie tweaking for Lilypond"
+    author: Sharon Rosner

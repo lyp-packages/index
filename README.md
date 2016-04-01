@@ -20,6 +20,10 @@
 
 * [assert](https://github.com/noteflakes/lyp-assert) - Assertions for lilypond packages.
 
+## Tweaking
+
+* [super-shape-me](https://github.com/noteflakes/lyp-super-shape-me) - Slur & tie tweaking for Lilypond.
+
 # Contributing
 
 This repository contains a YAML index of lilypond packages that can be installed using [lyp](https://github.com/noteflakes/lyp), the lilypond package manager.
