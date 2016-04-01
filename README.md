@@ -1,4 +1,4 @@
-# The semi-offical Lyp package index
+# The semi-offical [lyp](https://github.com/noteflakes/lyp) package index
 
 ## Editorial tools
 
