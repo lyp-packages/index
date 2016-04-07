@@ -1,11 +1,11 @@
 packages:
   assert:
     url: github.com/noteflakes/lyp-assert
-    description: Assertions for lilypond packages
+    description: Assertions for Lilypond packages
     author: Sharon Rosner
   bravura:
     url: github.com/noteflakes/lyp-bravura
-    description: Bravura SMuFL font for lilypond
+    description: Bravura SMuFL font for Lilypond
     author: Nathan Ho
   dependency-test:
     url: github.com/ciconia/lyp-dependency-test
@@ -17,16 +17,20 @@ packages:
     author: Sharon Rosner
   edition-engraver:
     url: github.com/noteflakes/lyp-edition-engraver
-    description: Editorial tweaking for lilypond
+    description: Editorial tweaking for Lilypond
     author: Jan-Peter Voigt
   gootville:
     url: github.com/noteflakes/lyp-gootville
-    description: Gootville SMuFL font for lilypond
+    description: Gootville SMuFL font for Lilypond
     author: Grzegorz Pruchniakowski / Sharon Rosner
   lilyjazz:
     url: github.com/noteflakes/lyp-lilyjazz
     description: LilyJazz font package
     author: Torsten Hämmerle
+  lys:
+    url: github.com/noteflakes/lyp-lys
+    description: Run Lilypond as a server
+    author: Sharon Rosner
   microlily:
     url: github.com/noteflakes/lyp-microlily
     description: Microtonal support for Lilypond

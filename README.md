@@ -1,13 +1,13 @@
-# The semi-offical [lyp](https://github.com/noteflakes/lyp) package index
+# The semi-offical [lyp](https://github.com/noteflakes/lyp#readme) package index
 
 ## Editorial tools
 
-* [edition-engraver](https://github.com/noteflakes/lyp-edition-engraver) - Editorial tweaking for lilypond.
+* [edition-engraver](https://github.com/noteflakes/lyp-edition-engraver) - Editorial tweaking for Lilypond.
 
 ## Fonts
 
-* [bravura](https://github.com/noteflakes/lyp-bravura) - Bravura SMuFL font for lilypond.
-* [gootville](https://github.com/noteflakes/lyp-gootville) - Gootville SMuFL font for lilypond (based on Gonville).
+* [bravura](https://github.com/noteflakes/lyp-bravura) - Bravura SMuFL font for Lilypond.
+* [gootville](https://github.com/noteflakes/lyp-gootville) - Gootville SMuFL font for Lilypond (based on Gonville).
 * [lilyjazz](https://github.com/noteflakes/lyp-lilyjazz) - LilyJazz font package.
 * [smufl](https://github.com/noteflakes/lyp-smufl) - Support for SMuFL fonts.
 
@@ -18,7 +18,8 @@
 
 ## Support Libraries
 
-* [assert](https://github.com/noteflakes/lyp-assert) - Assertions for lilypond packages.
+* [assert](https://github.com/noteflakes/lyp-assert) - Assertions for Lilypond packages.
+* [lys](https://github.com/noteflakes/lyp-lys) - Run Lilypond as a server.
 
 ## Tweaking
 
@@ -26,7 +27,7 @@
 
 # Contributing
 
-This repository contains a YAML index of lilypond packages that can be installed using [lyp](https://github.com/noteflakes/lyp), the lilypond package manager.
+This repository contains a YAML index of Lilypond packages that can be installed using [lyp](https://github.com/noteflakes/lyp), the Lilypond package manager.
 
 To add your package to the index:
 
