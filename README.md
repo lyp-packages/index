@@ -11,6 +11,10 @@
 * [lilyjazz](https://github.com/noteflakes/lyp-lilyjazz) - LilyJazz font package.
 * [smufl](https://github.com/noteflakes/lyp-smufl) - Support for SMuFL fonts.
 
+## Frameworks
+
+* [structure](https://github.com/noteflakes/lyp-structure) - A framework for writing big scores in Lilypond.
+
 ## Harmony
 
 * [microlily](https://github.com/noteflakes/lyp-microlily) - Microtonal support for Lilypond.
