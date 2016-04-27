@@ -31,6 +31,10 @@ packages:
     url: github.com/noteflakes/lyp-lys
     description: Run Lilypond as a server
     author: Sharon Rosner
+  merge-rests:
+    url: github.com/noteflakes/lyp-merge-rests
+    description: Rest Merging Engraver
+    author: Jay Anderson
   microlily:
     url: github.com/noteflakes/lyp-microlily
     description: Microtonal support for Lilypond

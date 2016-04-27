@@ -27,6 +27,7 @@
 
 ## Tweaking
 
+* [merge-rests](https://github.com/noteflakes/lyp-merge-rests) - Rest merging engraver.
 * [super-shape-me](https://github.com/noteflakes/lyp-super-shape-me) - Slur & tie tweaking for Lilypond.
 
 # Contributing
