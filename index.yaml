@@ -1,10 +1,10 @@
 packages:
   assert:
-    url: github.com/noteflakes/lyp-assert
+    url: github.com/lyp-packages/assert
     description: Assertions for Lilypond packages
     author: Sharon Rosner
   bravura:
-    url: github.com/noteflakes/lyp-bravura
+    url: github.com/lyp-packages/bravura
     description: Bravura SMuFL font for Lilypond
     author: Nathan Ho
   dependency-test:
@@ -12,39 +12,39 @@ packages:
     description: A package to test transitive dependencies
     author: Sharon Rosner
   dummy:
-    url: github.com/noteflakes/lyp-package-template
+    url: github.com/lyp-packages/package-template
     description: A dummy package that does absolutely nothing
     author: Sharon Rosner
   edition-engraver:
-    url: github.com/noteflakes/lyp-edition-engraver
+    url: github.com/lyp-packages/edition-engraver
     description: Editorial tweaking for Lilypond
     author: Jan-Peter Voigt
   gootville:
-    url: github.com/noteflakes/lyp-gootville
+    url: github.com/lyp-packages/gootville
     description: Gootville SMuFL font for Lilypond
     author: Grzegorz Pruchniakowski / Sharon Rosner
   lilyjazz:
-    url: github.com/noteflakes/lyp-lilyjazz
+    url: github.com/lyp-packages/lilyjazz
     description: LilyJazz font package
     author: Torsten Hämmerle
   lys:
-    url: github.com/noteflakes/lyp-lys
+    url: github.com/lyp-packages/lys
     description: Run Lilypond as a server
     author: Sharon Rosner
   merge-rests:
-    url: github.com/noteflakes/lyp-merge-rests
+    url: github.com/lyp-packages/merge-rests
     description: Rest Merging Engraver
     author: Jay Anderson
   microlily:
-    url: github.com/noteflakes/lyp-microlily
+    url: github.com/lyp-packages/microlily
     description: Microtonal support for Lilypond
     author: Graham Breed
   roman-numerals:
-    url: github.com/noteflakes/lyp-roman-numerals
+    url: github.com/lyp-packages/roman-numerals
     description: A package for roman numeral harmonic analysis
     author: David Nalesnik
   smufl:
-    url: github.com/noteflakes/lyp-smufl
+    url: github.com/lyp-packages/smufl
     description: Support for SMuFL fonts
     author: Nathan Ho
   structure:
@@ -52,6 +52,6 @@ packages:
     description: A framework for writing big scores in Lilypond
     author: Sharon Rosner
   super-shape-me:
-    url: github.com/noteflakes/lyp-super-shape-me
+    url: github.com/lyp-packages/super-shape-me
     description: "Slur & tie tweaking for Lilypond"
     author: Sharon Rosner

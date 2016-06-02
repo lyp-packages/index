@@ -2,14 +2,14 @@
 
 ## Editorial tools
 
-* [edition-engraver](https://github.com/noteflakes/lyp-edition-engraver) - Editorial tweaking for Lilypond.
+* [edition-engraver](https://github.com/lyp-packages/edition-engraver) - Editorial tweaking for Lilypond.
 
 ## Fonts
 
-* [bravura](https://github.com/noteflakes/lyp-bravura) - Bravura SMuFL font for Lilypond.
-* [gootville](https://github.com/noteflakes/lyp-gootville) - Gootville SMuFL font for Lilypond (based on Gonville).
-* [lilyjazz](https://github.com/noteflakes/lyp-lilyjazz) - LilyJazz font package.
-* [smufl](https://github.com/noteflakes/lyp-smufl) - Support for SMuFL fonts.
+* [bravura](https://github.com/lyp-packages/bravura) - Bravura SMuFL font for Lilypond.
+* [gootville](https://github.com/lyp-packages/gootville) - Gootville SMuFL font for Lilypond (based on Gonville).
+* [lilyjazz](https://github.com/lyp-packages/lilyjazz) - LilyJazz font package.
+* [smufl](https://github.com/lyp-packages/smufl) - Support for SMuFL fonts.
 
 ## Frameworks
 
@@ -17,18 +17,18 @@
 
 ## Harmony
 
-* [microlily](https://github.com/noteflakes/lyp-microlily) - Microtonal support for Lilypond.
-* [roman-numerals](https://github.com/noteflakes/lyp-roman-numerals) - A package for roman numeral harmonic analysis.
+* [microlily](https://github.com/lyp-packages/microlily) - Microtonal support for Lilypond.
+* [roman-numerals](https://github.com/lyp-packages/roman-numerals) - A package for roman numeral harmonic analysis.
 
 ## Support Libraries
 
-* [assert](https://github.com/noteflakes/lyp-assert) - Assertions for Lilypond packages.
-* [lys](https://github.com/noteflakes/lyp-lys) - Run Lilypond as a server.
+* [assert](https://github.com/lyp-packages/assert) - Assertions for Lilypond packages.
+* [lys](https://github.com/lyp-packages/lys) - Run Lilypond as a server.
 
 ## Tweaking
 
-* [merge-rests](https://github.com/noteflakes/lyp-merge-rests) - Rest merging engraver.
-* [super-shape-me](https://github.com/noteflakes/lyp-super-shape-me) - Slur & tie tweaking for Lilypond.
+* [merge-rests](https://github.com/lyp-packages/merge-rests) - Rest merging engraver.
+* [super-shape-me](https://github.com/lyp-packages/super-shape-me) - Slur & tie tweaking for Lilypond.
 
 # Contributing
 
