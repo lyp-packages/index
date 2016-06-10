@@ -8,7 +8,7 @@ packages:
     description: Bravura SMuFL font for Lilypond
     author: Nathan Ho
   dependency-test:
-    url: github.com/ciconia/lyp-dependency-test
+    url: github.com/lyp-packages/dependency-test
     description: A package to test transitive dependencies
     author: Sharon Rosner
   dummy:
