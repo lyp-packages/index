@@ -39,6 +39,10 @@ packages:
     url: github.com/lyp-packages/microlily
     description: Microtonal support for Lilypond
     author: Graham Breed
+  profondo:
+    url: github.com/lyp-packages/profondo
+    description: Profondo font package
+    author: Abraham Lee
   roman-numerals:
     url: github.com/lyp-packages/roman-numerals
     description: A package for roman numeral harmonic analysis
