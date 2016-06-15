@@ -23,6 +23,10 @@ packages:
     url: github.com/lyp-packages/gootville
     description: Gootville SMuFL font for Lilypond
     author: Grzegorz Pruchniakowski / Sharon Rosner
+  haydn:
+    url: github.com/lyp-packages/haydn
+    description: Haydn font package
+    author: Abraham Lee
   lilyjazz:
     url: github.com/lyp-packages/lilyjazz
     description: LilyJazz font package
