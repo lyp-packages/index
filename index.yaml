@@ -3,6 +3,10 @@ packages:
     url: github.com/lyp-packages/assert
     description: Assertions for Lilypond packages
     author: Sharon Rosner
+  beethoven:
+    url: github.com/lyp-packages/beethoven
+    description: Beethoven font package
+    author: Abraham Lee
   bravura:
     url: github.com/lyp-packages/bravura
     description: Bravura SMuFL font for Lilypond
@@ -43,6 +47,10 @@ packages:
     url: github.com/lyp-packages/microlily
     description: Microtonal support for Lilypond
     author: Graham Breed
+  paganini:
+    url: github.com/lyp-packages/paganini
+    description: Paganini font package
+    author: Abraham Lee
   profondo:
     url: github.com/lyp-packages/profondo
     description: Profondo font package
