@@ -24,6 +24,10 @@
 * [microlily](https://github.com/lyp-packages/microlily) - Microtonal support for Lilypond.
 * [roman-numerals](https://github.com/lyp-packages/roman-numerals) - A package for roman numeral harmonic analysis.
 
+## Instrument-specific notation
+
+* [lilydrum](https://github.com/lyp-packages/lilydrum) - Right-left drum notation (mainly for pipeband snare drumming).
+
 ## Support Libraries
 
 * [assert](https://github.com/lyp-packages/assert) - Assertions for Lilypond packages.
