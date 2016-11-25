@@ -51,6 +51,10 @@ packages:
     url: github.com/lyp-packages/microlily
     description: Microtonal support for Lilypond
     author: Graham Breed
+  oll-core:
+    url: github.com/lyp-packages/oll-core
+    description: Basic functionality for OpenLilyLib
+    author: Urs Liska
   paganini:
     url: github.com/lyp-packages/paganini
     description: Paganini font package

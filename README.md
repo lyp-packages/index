@@ -28,6 +28,10 @@
 
 * [lilydrum](https://github.com/lyp-packages/lilydrum) - Right-left drum notation (mainly for pipeband snare drumming).
 
+## OpenLilyLib
+
+* [oll-core](https://github.com/lyp-packages/oll-core) - Basic functionality for OpenLilyLib packages.
+
 ## Support Libraries
 
 * [assert](https://github.com/lyp-packages/assert) - Assertions for Lilypond packages.
