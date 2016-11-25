@@ -31,6 +31,7 @@
 ## OpenLilyLib
 
 * [oll-core](https://github.com/lyp-packages/oll-core) - Basic functionality for OpenLilyLib packages.
+* [oll-ji](https://github.com/lyp-packages/oll-ji) - Commands for notating music in just notation.
 
 ## Support Libraries
 

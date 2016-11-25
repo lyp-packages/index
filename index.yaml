@@ -55,6 +55,10 @@ packages:
     url: github.com/lyp-packages/oll-core
     description: Basic functionality for OpenLilyLib
     author: Urs Liska
+  oll-ji:
+    url: github.com/lyp-packages/oll-ji
+    description: Commands for notating music in just intonation
+    author: Urs Liska
   paganini:
     url: github.com/lyp-packages/paganini
     description: Paganini font package
