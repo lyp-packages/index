@@ -17,7 +17,7 @@
 
 ## Frameworks
 
-* [structure](https://github.com/noteflakes/lyp-structure) - A framework for writing big scores in Lilypond.
+* [structure](https://github.com/noteflakes/lyp-structure) - A framework for writing big scores in Lilypond (WIP).
 
 ## Harmony
 
@@ -42,6 +42,7 @@
 
 * [merge-rests](https://github.com/lyp-packages/merge-rests) - Rest merging engraver.
 * [super-shape-me](https://github.com/lyp-packages/super-shape-me) - Slur & tie tweaking for Lilypond.
+* [auto-extenders](https://github.com/lyp-packages/auto-extenders) - Automatic lyrics line extenders for Lilypond.
 
 # Contributing
 

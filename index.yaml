@@ -3,6 +3,10 @@ packages:
     url: github.com/lyp-packages/assert
     description: Assertions for Lilypond packages
     author: Sharon Rosner
+  auto-extenders:
+    url: github.com/lyp-packages/auto-extenders
+    description: Automatic lyrics line extenders for Lilypond
+    author: Knut Petersen / Alexander Kobel / Sharon Rosner
   beethoven:
     url: github.com/lyp-packages/beethoven
     description: Beethoven font package
