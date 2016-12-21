@@ -33,6 +33,10 @@
 * [oll-core](https://github.com/lyp-packages/oll-core) - Basic functionality for OpenLilyLib packages.
 * [oll-ji](https://github.com/lyp-packages/oll-ji) - Commands for notating music in just notation.
 
+## Special notation
+
+* [slashed-beams](https://github.com/lyp-packages/slashed-beams) - Slashed beams for Lilypond.
+
 ## Support Libraries
 
 * [assert](https://github.com/lyp-packages/assert) - Assertions for Lilypond packages.

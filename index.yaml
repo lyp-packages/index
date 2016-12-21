@@ -75,6 +75,10 @@ packages:
     url: github.com/lyp-packages/roman-numerals
     description: A package for roman numeral harmonic analysis
     author: David Nalesnik
+  slashed-beams:
+    url: github.com/lyp-packages/slashed-beams
+    description: Slashed beams for Lilypond
+    author: Andrew Bernard
   smufl:
     url: github.com/lyp-packages/smufl
     description: Support for SMuFL fonts
