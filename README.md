@@ -36,6 +36,7 @@
 ## Special notation
 
 * [slashed-beams](https://github.com/lyp-packages/slashed-beams) - Slashed beams for Lilypond.
+* [pedal-decorations](https://github.com/lyp-packages/pedal-decorations) - Pedal mark decorations for Lilypond.
 
 ## Support Libraries
 

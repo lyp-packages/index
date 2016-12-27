@@ -67,6 +67,10 @@ packages:
     url: github.com/lyp-packages/paganini
     description: Paganini font package
     author: Abraham Lee
+  pedal-decorations:
+    url: github.com/lyp-packages/pedal-decorations
+    description: Pedal decorations for Lilypond
+    author: Andrew Bernard
   profondo:
     url: github.com/lyp-packages/profondo
     description: Profondo font package
