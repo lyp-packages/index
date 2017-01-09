@@ -35,6 +35,7 @@
 
 ## Special notation
 
+* [frame-engraver](https://github.com/lyp-packages/frame-engraver) - Engrave boxes around notes (for modern notation).
 * [slashed-beams](https://github.com/lyp-packages/slashed-beams) - Slashed beams for Lilypond.
 * [pedal-decorations](https://github.com/lyp-packages/pedal-decorations) - Pedal mark decorations for Lilypond.
 

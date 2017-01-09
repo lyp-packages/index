@@ -27,6 +27,10 @@ packages:
     url: github.com/lyp-packages/edition-engraver
     description: Editorial tweaking for Lilypond
     author: Jan-Peter Voigt
+  frame-engraver:
+    url: github.com/lyp-packages/frame-engraver
+    description: Engrave boxes around notes
+    author: David Nalesnik
   gootville:
     url: github.com/lyp-packages/gootville
     description: Gootville SMuFL font for Lilypond
