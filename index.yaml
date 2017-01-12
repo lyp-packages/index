@@ -39,6 +39,10 @@ packages:
     url: github.com/lyp-packages/haydn
     description: Haydn font package
     author: Abraham Lee
+  improviso:
+    url: github.com/lyp-packages/improviso
+    description: Improviso font package
+    author: Abraham Lee
   lilydrum:
     url: github.com/lyp-packages/lilydrum
     description: Right-left drum notation (mainly for pipeband snare drumming)
