@@ -96,7 +96,7 @@ packages:
     description: Support for SMuFL fonts
     author: Nathan Ho
   structure:
-    url: github.com/noteflakes/lyp-structure
+    url: github.com/lyp-packages/structure
     description: A framework for writing big scores in Lilypond
     author: Sharon Rosner
   super-shape-me:

@@ -18,7 +18,7 @@
 
 ## Frameworks
 
-* [structure](https://github.com/noteflakes/lyp-structure) - A framework for writing big scores in Lilypond (WIP).
+* [structure](https://github.com/lyp-packages/structure) - A framework for writing big scores in Lilypond (WIP).
 
 ## Harmony
 
