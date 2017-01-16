@@ -103,3 +103,8 @@ packages:
     url: github.com/lyp-packages/super-shape-me
     description: "Slur & tie tweaking for Lilypond"
     author: Sharon Rosner
+  svg-metadata:
+    url: github.com/lyp-packages/svg-metadata
+    description: "Add metadata to Lilypond SVG output"
+    author: Mathieu Demange
+    
