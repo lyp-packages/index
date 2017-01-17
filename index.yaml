@@ -15,6 +15,10 @@ packages:
     url: github.com/lyp-packages/bravura
     description: Bravura SMuFL font for Lilypond
     author: Nathan Ho
+  chtab:
+    url: github.com/lyp-packages/chtab
+    description: Alternative TabStaff algorithm for Lilypond
+    author: Christopher Heckman
   dependency-test:
     url: github.com/lyp-packages/dependency-test
     description: A package to test transitive dependencies

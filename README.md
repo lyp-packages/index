@@ -28,6 +28,7 @@
 ## Instrument-specific notation
 
 * [lilydrum](https://github.com/lyp-packages/lilydrum) - Right-left drum notation (mainly for pipeband snare drumming).
+* [chtab](https://github.com/lyp-packages/chtab) - Alternative TabStaff algorithm.
 
 ## OpenLilyLib
 
